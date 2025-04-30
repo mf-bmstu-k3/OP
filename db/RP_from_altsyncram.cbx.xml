@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="RP_from_altsyncram">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Modul_altsyncra_after_edit|ALTSYNCRAM:RP_1" CBX_FILE_NAME="altsyncram_v8n3.tdf"/>
+	</PROJECT>
+	<PROJECT NAME="module_OP">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Modul_altsyncram|ALTSYNCRAM:inst" CBX_FILE_NAME="altsyncram_u0q3.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

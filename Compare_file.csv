@@ -1,0 +1,159 @@
+,RP_from_altsyncram,RP_from_megawizard,RP_from_template,OP_from_megawizard,module_OP,
+Analysis & Synthesis
+Analysis & Synthesis Status, Successful - Mon Jan 06 15:52:36 2025, Successful - Mon Jan 06 15:57:18 2025, Successful - Mon Jan 06 14:19:06 2025, Successful - Mon Jan 06 16:05:44 2025, Successful - Mon Jan 06 15:49:09 2025,
+Quartus II 64-Bit Version, 13.1.0 Build 162 10/23/2013 SJ Web Edition, 13.1.0 Build 162 10/23/2013 SJ Web Edition, 13.1.0 Build 162 10/23/2013 SJ Web Edition, 13.1.0 Build 162 10/23/2013 SJ Web Edition, 13.1.0 Build 162 10/23/2013 SJ Web Edition,
+Revision Name, RP_from_altsyncram, RP_from_megawizard, RP_from_template, OP_from_megawizard, module_OP,
+Top-level Entity Name, Modul_altsyncra_after_edit, RP_from_megawizard, RP_from_template, OP_from_megawizard, Modul_altsyncram,
+Family, Cyclone IV GX, Cyclone IV GX, Cyclone IV GX, Cyclone IV GX, Cyclone IV GX,
+Total logic elements, 0, 0, 232, 196, 0,
+Total combinational functions, 0, 0, 232, 171, 0,
+Dedicated logic registers, 0, 0, 80, 113, 0,
+Total registers, 0, 0, 80, 113, 0,
+Total pins, 41, 41, 41, 26, 46,
+Total virtual pins, 0, 0, 0, 0, 0,
+Total memory bits, 64, 64, 0," 2,04"8, 64,
+Embedded Multiplier 9-bit elements, 0, 0, 0, 0, 0,
+Total GXB Receiver Channel PCS, 0, 0, 0, 0, 0,
+Total GXB Receiver Channel PMA, 0, 0, 0, 0, 0,
+Total GXB Transmitter Channel PCS, 0, 0, 0, 0, 0,
+Total GXB Transmitter Channel PMA, 0, 0, 0, 0, 0,
+Total PLLs, 0, 0, 0, 0, 0,
+Fitter
+Fitter Status, Successful - Mon Jan 06 15:53:00 2025, Successful - Mon Jan 06 15:57:42 2025, Successful - Mon Jan 06 14:19:44 2025, Successful - Mon Jan 06 16:06:03 2025, Successful - Mon Jan 06 15:49:33 2025,
+Quartus II 64-Bit Version, 13.1.0 Build 162 10/23/2013 SJ Web Edition, 13.1.0 Build 162 10/23/2013 SJ Web Edition, 13.1.0 Build 162 10/23/2013 SJ Web Edition, 13.1.0 Build 162 10/23/2013 SJ Web Edition, 13.1.0 Build 162 10/23/2013 SJ Web Edition,
+Revision Name, RP_from_altsyncram, RP_from_megawizard, RP_from_template, OP_from_megawizard, module_OP,
+Top-level Entity Name, Modul_altsyncra_after_edit, RP_from_megawizard, RP_from_template, OP_from_megawizard, Modul_altsyncram,
+Family, Cyclone IV GX, Cyclone IV GX, Cyclone IV GX, Cyclone IV GX, Cyclone IV GX,
+Device, EP4CGX22CF19C6, EP4CGX22CF19C6, EP4CGX22CF19C6, EP4CGX15BF14C6, EP4CGX22CF19C6,
+Timing Models, Final, Final, Final, Final, Final,
+Total logic elements," 0 / 21,280 ( 0 % ")," 0 / 21,280 ( 0 % ")," 237 / 21,280 ( 1 % ")," 192 / 14,400 ( 1 % ")," 0 / 21,280 ( 0 % "),
+Total combinational functions," 0 / 21,280 ( 0 % ")," 0 / 21,280 ( 0 % ")," 232 / 21,280 ( 1 % ")," 171 / 14,400 ( 1 % ")," 0 / 21,280 ( 0 % "),
+Dedicated logic registers," 0 / 21,280 ( 0 % ")," 0 / 21,280 ( 0 % ")," 80 / 21,280 ( < 1 % ")," 113 / 14,400 ( < 1 % ")," 0 / 21,280 ( 0 % "),
+Total registers, 0, 0, 80, 113, 0,
+Total pins, 41 / 167 ( 25 % ), 41 / 167 ( 25 % ), 41 / 167 ( 25 % ), 26 / 81 ( 32 % ), 46 / 167 ( 28 % ),
+Total virtual pins, 0, 0, 0, 0, 0,
+Total memory bits," 64 / 774,144 ( < 1 % ")," 64 / 774,144 ( < 1 % ")," 0 / 774,144 ( 0 % ")," 2,048 / 552,960 ( < 1 % ")," 64 / 774,144 ( < 1 % "),
+Embedded Multiplier 9-bit elements, 0 / 80 ( 0 % ), 0 / 80 ( 0 % ), 0 / 80 ( 0 % ), 0, 0 / 80 ( 0 % ),
+Total GXB Receiver Channel PCS, 0 / 4 ( 0 % ), 0 / 4 ( 0 % ), 0 / 4 ( 0 % ), 0 / 2 ( 0 % ), 0 / 4 ( 0 % ),
+Total GXB Receiver Channel PMA, 0 / 4 ( 0 % ), 0 / 4 ( 0 % ), 0 / 4 ( 0 % ), 0 / 2 ( 0 % ), 0 / 4 ( 0 % ),
+Total GXB Transmitter Channel PCS, 0 / 4 ( 0 % ), 0 / 4 ( 0 % ), 0 / 4 ( 0 % ), 0 / 2 ( 0 % ), 0 / 4 ( 0 % ),
+Total GXB Transmitter Channel PMA, 0 / 4 ( 0 % ), 0 / 4 ( 0 % ), 0 / 4 ( 0 % ), 0 / 2 ( 0 % ), 0 / 4 ( 0 % ),
+Total PLLs, 0 / 4 ( 0 % ), 0 / 4 ( 0 % ), 0 / 4 ( 0 % ), 0 / 3 ( 0 % ), 0 / 4 ( 0 % ),
+TimeQuest Timing Analyzer
+ Slow 1200mV 85C Model Minimum Pulse Width 'clock0'
+Slack, -3.000, -3.000,
+TNS  , -16.044, -29.088,
+ Slow 1200mV 0C Model Minimum Pulse Width 'clock0'
+Slack, -3.000, -3.000,
+TNS  , -16.044, -29.088,
+ Fast 1200mV 0C Model Minimum Pulse Width 'clock0'
+Slack, -3.000, -3.000,
+TNS  , -9.527, -16.046,
+ Slow 1200mV 85C Model Minimum Pulse Width 'clock'
+Slack, -3.000,
+TNS  , -16.044,
+ Slow 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack, -3.000,
+TNS  , -16.044,
+ Fast 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack, -3.000,
+TNS  , -9.527,
+ Slow 1200mV 85C Model Setup 'clk'
+Slack, -1.487,
+TNS  , -53.026,
+ Slow 1200mV 85C Model Hold 'clk'
+Slack, 0.356,
+TNS  , 0.000,
+ Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack, -3.000,
+TNS  , -83.000,
+ Slow 1200mV 0C Model Setup 'clk'
+Slack, -1.200,
+TNS  , -39.185,
+ Slow 1200mV 0C Model Hold 'clk'
+Slack, 0.310,
+TNS  , 0.000,
+ Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack, -3.000,
+TNS  , -83.000,
+ Fast 1200mV 0C Model Setup 'clk'
+Slack, -0.410,
+TNS  , -2.567,
+ Fast 1200mV 0C Model Hold 'clk'
+Slack, 0.186,
+TNS  , 0.000,
+ Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack, -3.000,
+TNS  , -85.522,
+ Slow 1200mV 85C Model Setup 'altera_reserved_tck'
+Slack, 45.648,
+TNS  , 0.000,
+ Slow 1200mV 85C Model Hold 'altera_reserved_tck'
+Slack, 0.355,
+TNS  , 0.000,
+ Slow 1200mV 85C Model Recovery 'altera_reserved_tck'
+Slack, 48.435,
+TNS  , 0.000,
+ Slow 1200mV 85C Model Removal 'altera_reserved_tck'
+Slack, 0.993,
+TNS  , 0.000,
+ Slow 1200mV 85C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack, 49.595,
+TNS  , 0.000,
+ Slow 1200mV 0C Model Setup 'altera_reserved_tck'
+Slack, 46.145,
+TNS  , 0.000,
+ Slow 1200mV 0C Model Hold 'altera_reserved_tck'
+Slack, 0.310,
+TNS  , 0.000,
+ Slow 1200mV 0C Model Recovery 'altera_reserved_tck'
+Slack, 48.601,
+TNS  , 0.000,
+ Slow 1200mV 0C Model Removal 'altera_reserved_tck'
+Slack, 0.894,
+TNS  , 0.000,
+ Slow 1200mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack, 49.604,
+TNS  , 0.000,
+ Fast 1200mV 0C Model Setup 'altera_reserved_tck'
+Slack, 47.834,
+TNS  , 0.000,
+ Fast 1200mV 0C Model Hold 'altera_reserved_tck'
+Slack, 0.185,
+TNS  , 0.000,
+ Fast 1200mV 0C Model Recovery 'altera_reserved_tck'
+Slack, 49.381,
+TNS  , 0.000,
+ Fast 1200mV 0C Model Removal 'altera_reserved_tck'
+Slack, 0.546,
+TNS  , 0.000,
+ Fast 1200mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack, 49.398,
+TNS  , 0.000,
+ Slow 1200mV 85C Model Setup 'clock0'
+Slack, -1.756,
+TNS  , -14.048,
+ Slow 1200mV 85C Model Hold 'clock0'
+Slack, 2.351,
+TNS  , 0.000,
+ Slow 1200mV 85C Model Minimum Pulse Width 'clock1'
+Slack, -3.000,
+TNS  , -11.696,
+ Slow 1200mV 0C Model Setup 'clock0'
+Slack, -1.484,
+TNS  , -11.872,
+ Slow 1200mV 0C Model Hold 'clock0'
+Slack, 2.108,
+TNS  , 0.000,
+ Slow 1200mV 0C Model Minimum Pulse Width 'clock1'
+Slack, -3.000,
+TNS  , -11.696,
+ Fast 1200mV 0C Model Setup 'clock0'
+Slack, -0.324,
+TNS  , -2.592,
+ Fast 1200mV 0C Model Hold 'clock0'
+Slack, 1.049,
+TNS  , 0.000,
+ Fast 1200mV 0C Model Minimum Pulse Width 'clock1'
+Slack, -3.000,
+TNS  , -7.338,

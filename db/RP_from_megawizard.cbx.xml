@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="RP_from_megawizard">
+		<CBX_INST_ENTRY INSTANCE_NAME="|RP_from_megawizard|RP2:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_cvs3.tdf"/>
+	</PROJECT>
+	<PROJECT NAME="module_OP">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Modul_altsyncram|ALTSYNCRAM:inst" CBX_FILE_NAME="altsyncram_u0q3.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
